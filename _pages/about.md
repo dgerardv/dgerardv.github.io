@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a mathematician working in the field of partial differential equations (PDEs). My main research interest lies in the asymptotic analysis of models coming from fluid dynamics, fluid-structure interaction, heterogeneous materials.     
+I am a mathematician working in the field of partial differential equations (PDEs). My main research interests lie in the asymptotic analysis of models coming from fluid dynamics, fluid-structure interaction, heterogeneous materials.     
 
