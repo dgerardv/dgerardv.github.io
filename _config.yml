@@ -11,7 +11,7 @@ title                    : "David Gérard-Varet"
 title_separator          : "-"
 name                     : &name "David Gérard-Varet"
 description              : &description "Professor of Mathematics at Université de Paris"
-url                      : https://dgerardv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://davidgerardvaret.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dgerardv/davidgerardvaret.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            :"dgerardv@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
