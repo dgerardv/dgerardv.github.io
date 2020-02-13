@@ -16,12 +16,13 @@ Submitted.
 
 <a href="https://arxiv.org/pdf/1905.08208"> Analysis of the viscosity of dilute suspensions beyond Einstein's formula </a> (with M. Hillairet) <br>
 Submitted.
-
+<br>
 
 <a href="https://arxiv.org/pdf/1809.11004.pdf"> Well-posedness of the
 Prandtl equation without any structural assumption </a> (with H. Dietert) <br>
 To appear in <span style="font-style: italic;"> Annals of PDE</span>.
-
+<br>
+<br>
 
 <a href="https://arxiv.org/pdf/1804.04489.pdf"> Well-posedness of the
 hydrostatic Navier-Stokes equations </a> (with N. Masmoudi, V. Vicol) <br>
@@ -191,7 +192,7 @@ domains</a>  (with C. Lacave) <br>
 
 <a href="homog_Varet41.pdf"> Homogenization and boundary layers</a>  (with
  N. Masmoudi)  <br>
- <span style="font-style: italic;"> Acta Math.</span> 209, 133-178 (2012).</span>
+ <span style="font-style: italic;"> Acta Math.</span> 209, 133-178 (2012).
 
 
 <a href="Dalibard_GV_2.pdf"> Effective boundary condition at a rough
@@ -249,10 +250,8 @@ Math. Phys.  </span> 286, 81-110 (2009)
 <a href="http://arxiv.org/pdf/math/0606768.pdf"> Wall laws for
 fluid flows at a boundary with
 random roughness</a> (with A. Basson) <br>
- <span
- style="font-style: italic;">Comm. Pure Applied
+ <span style="font-style: italic;">Comm. Pure Applied
  Math.</span> <span style="font-weight: bold;">61</span> No.7, 941-987 (2008) 
- </span>
  
  
 <a href="Euler_arma.pdf"> Three-dimensional instability of planar
@@ -260,7 +259,6 @@ flows</a> (with F. Gallaire, F. Rousset) <br>
 <span style="font-style: italic;"> Arch.
 Rat. Mech. Anal.</span> <span style="font-weight: bold;">186</span>,
 No.3, 423-475 (2007)
-</span>
 
 <a href="http://arxiv.org/pdf/math/0606525.pdf"> Remarks on boundary layer expansions</a>
 (with
@@ -277,7 +275,8 @@ Dynamics</span> <span style="font-weight: bold;">101</span>, 171-184
 
 <a href="compns.pdf">  On
 compressible Navier-Stokes equations with density dependent viscosities
-in bounded domains </a>(with D. Bresch, B. Desjardins)<br>
+in bounded domains </a>    
+(with D. Bresch, B. Desjardins)<br>
 <span style="font-style: italic;"> J. Math. Pures
 Appl.</span> <span style="font-weight: bold;">87</span><span
  style="font-style: italic;"><span style="font-weight: bold;"> </span></span>(9),
@@ -327,27 +326,25 @@ Mars 2005.
 
 
  <a href="qgeo.pdf">  About
-roughness-induced effects on the quasi-geostrophic model </a>(with
+roughness-induced effects on the quasi-geostrophic model </a> (with
 D. Bresch)<br><span style="font-style: italic;"> </span><i>Comm. Math.
 Phys</i>. <span style="font-weight: bold;">253, </span><span
  class="title"></span>179200. No.1,
 81119 (2005).
 
 
-</div>
-<div style="text-align: left;">
-<p><span class="title"> <a href="formel_jmfm.pdf">
-Formal derivation of boundary layers in fluid mechanics.<br></a></span>
+
+<a href="formel_jmfm.pdf"> Formal derivation of boundary layers in fluid mechanics.</a>
+<br></span>
 <em>J. Math. Fluid Mech.</em> <span style="font-weight: bold;">
-7&nbsp;
-</span> no. 2, 179200 (2005)
+7&nbsp;</span> no. 2, 179200 (2005)
   
 
-<a href="cylindfinal.pdf"> Rotating fluids in a cylinder </a>(with
+<a href="cylindfinal.pdf"> Rotating fluids in a cylinder </a> (with
 D.
 Bresch, B. Desjardins)<br><span style="font-style: italic;">
 </span><i>Disc.Cont.Dyn.Sys.-
-Series A&nbsp; </i>1, 4782, (2004).<br>
+Series A&nbsp; </i>1, 4782, (2004).
 
 
 
@@ -357,14 +354,13 @@ rotating fluids in rough domains</a><i>. <br>J. Math. Pures Appl.&nbsp;</i> <b>8
 
 
 <a href="cpde_bl.pdf"> A geometric optics type approach to fluid
-boundary
-layers</a><i>. <br>
-  Comm. Partial Diff. Eq</i>&nbsp; <b>28</b>,&nbsp; 16051626 (2003).
+boundary layers</a><i>. <br>
+Comm. Partial Diff. Eq</i>&nbsp; <b>28</b>,&nbsp; 16051626 (2003).
 
 
   
-<a href="pof_hartmann.pdf"> Amplification
-of small perturbations in a Hartmann layer.</a><br>
+<a href="pof_hartmann.pdf"> Amplification of small perturbations in a Hartmann layer.</a> 
+<br>
 <i>Physics of Fluids</i>
 <b>14</b>,&nbsp; No. 4,&nbsp; 14581467
 (2002).
