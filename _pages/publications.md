@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-You can find all my papers on the preprint server [arXiv](https://arxiv.org/search/?query=David+Gerard-Varet&searchtype=author&source=header) 
+You can find most of my papers on the preprint server [arXiv](https://arxiv.org/search/?query=David+Gerard-Varet&searchtype=author&source=header) 
 
 {% include base_path %}
 
