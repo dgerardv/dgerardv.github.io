@@ -113,7 +113,7 @@ oscillations in nonlinear optics and fluid mechanics.
 <br>
 <br>
 
-<a href="gevrey_annalesENS_final.pdf"> Well-posedness for the Prandtl system
+<a href="/files/gevrey_annalesENS_final.pdf"> Well-posedness for the Prandtl system
 without analyticity or monotonicity</a> (with N. Masmoudi) <br>
 <span style="font-style: italic;">  Ann. Sci. Ecole Norm. Sup. </span>
 48, Fascicule 6, 1273--1325 (2015).
@@ -144,7 +144,7 @@ ESAIM: Control, Optimisation and Calculus of Variations. </span> 21, 757--788 (2
 <br>
 
 
-<a href="DGV-MH-CW.pdf"> The influence of boundary conditions on the
+<a href="/files/DGV-MH-CW.pdf"> The influence of boundary conditions on the
 contact problem in a 3d Navier-Stokes flow</a> (with
 M. Hillairet, C. Wang) <br> 103, 1--38 (2015).
 <span style="font-style: italic;"> Journal
@@ -152,7 +152,7 @@ Math. Pures Appl. </span>
 <br>
 <br>
 
-<a href="BDGV_final.pdf"> Computation of the effective slip
+<a href="/files/BDGV_final.pdf"> Computation of the effective slip
 of rough hydrophobic surfaces  <span style="font-style: italic;">  via
 </span> homogenization</a>  (with
 M. Bonnivard, A-L. Dalibard) <br>
@@ -162,13 +162,13 @@ M3AS. </span> M3AS 24, 2259--2285 (2014).
 <br>
 
 
-<a href="GerardVaretHillairet2012pp.pdf"> Existence of weak solutions up to
+<a href="/files/GerardVaretHillairet2012pp.pdf"> Existence of weak solutions up to
  collision for viscous fluid-solid systems with slip</a>  (with M. Hillairet) <br>
 <span style="font-style: italic;"> Comm. Pure Appl. Math. </span> 67, 2022--2075 (2014).
 <br>
 <br>
 
-<a href="Dalibard_GVaret.pdf"> On shape optimization problems involving the
+<a href="/files/Dalibard_GVaret.pdf"> On shape optimization problems involving the
  fractional laplacian</a>  (with A-L. Dalibard) <br>
 <span style="font-style: italic;">
 ESAIM: Control, Optimisation and Calculus of Variations. </span> 19,
@@ -177,21 +177,21 @@ ESAIM: Control, Optimisation and Calculus of Variations. </span> 19,
 <br>
 <br>
 
-<a href="GVHKR7.pdf"> Quasineutral limit of the Euler-Poisson system
+<a href="/files/GVHKR7.pdf"> Quasineutral limit of the Euler-Poisson system
  for ions in a domain with boundaries</a>  (with D. Han-Kwan, F. Rousset) <br>
 <span style="font-style: italic;">
 Indiana Univ. Math. Journal. </span> 62, 359--402 (2013).
 <br>
 <br>
 
-<a href="DGV_CL_Euler.pdf"> The 2D Euler equation on singular
+<a href="/files/DGV_CL_Euler.pdf"> The 2D Euler equation on singular
 domains</a>  (with C. Lacave) <br>
 <span style="font-style: italic;"> Arch. Rat. Mech. Anal. </span> 209,131--170 (2013).
 <br>
 <br>
 
 
-<a href="FeGaGvNo_April.pdf"> Multi-scale analysis of compressible viscous
+<a href="/files/FeGaGvNo_April.pdf"> Multi-scale analysis of compressible viscous
  and rotating fluids  </a>  (with E. Feireisl, I. Gallagher,
  A. Novotny) <br>
 <span style="font-style: italic;">
@@ -200,26 +200,26 @@ domains</a>  (with C. Lacave) <br>
 <br>
 
 
-<a href="GV_H_final.pdf"> Computation of the drag force on a rough
+<a href="/files/GV_H_final.pdf"> Computation of the drag force on a rough
  sphere close to a wall </a>  (with M. Hillairet) <br>
 <span style="font-style: italic;"> M2AN</span> 46, 1201--1224 (2012).
 <br>
 <br>
 
-<a href="Prandtl9.pdf"> Remarks on the ill-posedness of the Prandtl
+<a href="/files/Prandtl9.pdf"> Remarks on the ill-posedness of the Prandtl
  Equation </a>  (with T. NGuyen) <br>
 <span style="font-style: italic;"> Asymptotic
  Analysis</span> 77, 71--88 (2012).
 <br>
 <br>
 
-<a href="homog_Varet41.pdf"> Homogenization and boundary layers</a>  (with
+<a href="/files/homog_Varet41.pdf"> Homogenization and boundary layers</a>  (with
  N. Masmoudi)  <br>
  <span style="font-style: italic;"> Acta Math.</span> 209, 133-178 (2012).
 <br>
 <br>
 
-<a href="Dalibard_GV_2.pdf"> Effective boundary condition at a rough
+<a href="/files/Dalibard_GV_2.pdf"> Effective boundary condition at a rough
  surface starting from a slip condition </a>  (with
  A-L. Dalibard)
 <br>
@@ -229,7 +229,7 @@ domains</a>  (with C. Lacave) <br>
 <br>
 
 
-<a href="GeMa2.pdf"> Homogenization in polygonal domains  </a>  (with
+<a href="/files/GeMa2.pdf"> Homogenization in polygonal domains  </a>  (with
  N. Masmoudi) <br>
  <span style="font-style: italic;"> J. Eur. Math. Soc..</span> 13,
  1477-1503 (2011).
@@ -237,7 +237,7 @@ domains</a>  (with C. Lacave) <br>
 <br>
 
 
-<a href="illposed.pdf"> On the ill-posedness of the Prandtl equation
+<a href="/files/illposed.pdf"> On the ill-posedness of the Prandtl equation
  </a>
 (with
  E. Dormy)  <br>
@@ -247,7 +247,7 @@ domains</a>  (with C. Lacave) <br>
 <br>
 
 
-<a href="noslip.pdf"> Relevance of the slip condition  for fluid flows
+<a href="/files/noslip.pdf"> Relevance of the slip condition  for fluid flows
  near an irregular boundary </a>  (with
  N. Masmoudi) <br>
  <span style="font-style: italic;">
@@ -270,7 +270,7 @@ Math. Phys.  </span> 286, 81-110 (2009)
 <br>
 <br>
 
- <a href="dormy_gv.pdf"> Time scales separation for dynamo action </a>
+ <a href="/files/dormy_gv.pdf"> Time scales separation for dynamo action </a>
  (with E. Dormy)<br>
  <span
  style="font-style: italic;"> EuroPhysics Letter </span> 81 64002
@@ -286,7 +286,7 @@ random roughness</a> (with A. Basson) <br>
 <br>
 <br>
  
-<a href="Euler_arma.pdf"> Three-dimensional instability of planar
+<a href="/files/Euler_arma.pdf"> Three-dimensional instability of planar
 flows</a> (with F. Gallaire, F. Rousset) <br>
 <span style="font-style: italic;"> Arch.
 Rat. Mech. Anal.</span> <span style="font-weight: bold;">186</span>,
@@ -302,14 +302,14 @@ No.1-3, 97-130 (2008)
 <br>
 <br>
 
-<a href="gafd.pdf"> Weakly nonlinear analysis of the alpha effect<br></a> <span
+<a href="/files/gafd.pdf"> Weakly nonlinear analysis of the alpha effect<br></a> <span
  style="font-style: italic;">Geophysical and Astrophysical Fluid
 Dynamics</span> <span style="font-weight: bold;">101</span>, 171-184
 (2007)
 <br>
 <br>
 
-<a href="bounded_ter.pdf">  On
+<a href="/files/bounded_ter.pdf">  On
 compressible Navier-Stokes equations with density dependent viscosities
 in bounded domains </a>  (with D. Bresch, B. Desjardins)<br>
 <span style="font-style: italic;"> J. Math. Pures
@@ -319,7 +319,7 @@ Appl.</span> <span style="font-weight: bold;">87</span><span
 <br>
 <br>
 
-<a href="ponomarenko5.pdf"> Shear layer solutions of incompressible
+<a href="/files/ponomarenko5.pdf"> Shear layer solutions of incompressible
 MHD and dynamo effect </a>(with F. Rousset)<br><span style="font-style: italic;">
 A</span><font style="font-style: italic;" class="srctitle">nn. I.&nbsp;
 H. Poincar&eacute; / Anal. non lin.</font> <span
@@ -328,14 +328,14 @@ H. Poincar&eacute; / Anal. non lin.</font> <span
 <br>
 <br>
 
- <a href="topo.pdf"> Homogenization problems from shallow water
+ <a href="/files/topo.pdf"> Homogenization problems from shallow water
 theory</a>
 &nbsp; (with D. Bresch) <br><em>Appl. Math. Lett.</em> <span
  style="font-weight: bold;"> 20</span>&nbsp; no. 5, 505510 (2007)
  <br>
 <br>
  
- <a href="dormy_dgv.pdf"> Ekman
+ <a href="/files/dormy_dgv.pdf"> Ekman
 layers near wavy boundaries </a>(with
 E. Dormy)<br><span style="font-style: italic;"> J. Fluid Mech. </span><span
  style="font-weight: bold;">565</span>, 115-134 (2006)<span
@@ -343,7 +343,7 @@ E. Dormy)<br><span style="font-style: italic;"> J. Fluid Mech. </span><span
  <br>
 <br>
  
-<a href="PGfinal.pdf"> Derivation of the planetary geostrophic
+<a href="/files/PGfinal.pdf"> Derivation of the planetary geostrophic
 equations </a>(with
 D. Bresch, E. Grenier)<br><span style="font-style: italic;"> Arch.
 Rat. Mech. Anal.</span> <span style="font-weight: bold;">182</span>,
@@ -351,7 +351,7 @@ No.3, 387413 (2006)
 <br>
 <br>
 
- <a href="go_roberts.pdf"> Oscillating
+ <a href="/files/go_roberts.pdf"> Oscillating
 solutions of incompressible MHD and
 dynamo effect<br></a>
  <span style="font-style: italic;">SIAM
@@ -367,7 +367,7 @@ Mars 2005.
 <br>
 <br>
 
- <a href="CMP2.pdf">  About
+ <a href="/files/CMP2.ps">  About
 roughness-induced effects on the quasi-geostrophic model </a> (with
 D. Bresch)<br><span style="font-style: italic;"> </span><i>Comm. Math.
 Phys</i>. <span style="font-weight: bold;">253, </span><span
@@ -377,14 +377,14 @@ Phys</i>. <span style="font-weight: bold;">253, </span><span
 <br>
 
 
-<a href="jmfm115.pdf"> Formal derivation of boundary layers in fluid mechanics.</a>
+<a href="/files/jmfm115.pdf"> Formal derivation of boundary layers in fluid mechanics.</a>
 <br></span>
 <em>J. Math. Fluid Mech.</em> <span style="font-weight: bold;">
 7&nbsp;</span> no. 2, 179200 (2005)
   <br>
 <br>
 
-<a href="cylindfinal.pdf"> Rotating fluids in a cylinder </a> (with
+<a href="/files/cylindfinal.pdf"> Rotating fluids in a cylinder </a> (with
 D.
 Bresch, B. Desjardins)<br><span style="font-style: italic;">
 </span><i>Disc.Cont.Dyn.Sys.-
@@ -393,7 +393,7 @@ Series A&nbsp; </i>1, 4782, (2004).
 <br>
 
 
-<a href="ekman.pdf"> Highly
+<a href="/files/ekman.ps"> Highly
 rotating fluids in rough domains</a><i>. <br>J. Math. Pures Appl.&nbsp;</i> <b>82</b>,
 14531498 (2003).
 <br>
