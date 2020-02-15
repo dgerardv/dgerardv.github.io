@@ -108,7 +108,7 @@ oscillations in nonlinear optics and fluid mechanics.
 <a href="http://www.bourbaki.ens.fr/TEXTES/1091.pdf">
  Ph&eacute;nom&egrave;ne d'amortissement dans les &eacute;quations
  d'Euler (d'apr&egrave;s Bedrossian-Masmoudi)</a> <br>
-<span style="font-style: italic;">  S&eacuteminaire Bourbaki</span>,
+<span style="font-style: italic;">  S&eacute;minaire Bourbaki</span>,
  67&egrave;me ann&eacute;, 2014-205, n&ordm; 1091.
 <br>
 <br>
@@ -334,8 +334,8 @@ theory</a>
  style="font-weight: bold;"> 20</span>&nbsp; no. 5, 505510 (2007)
  <br>
 <br>
- 
- <a href="/files/dormy_dgv.pdf"> Ekman
+
+ <a href="/files/dormy_gv.pdf"> Ekman
 layers near wavy boundaries </a>(with
 E. Dormy)<br><span style="font-style: italic;"> J. Fluid Mech. </span><span
  style="font-weight: bold;">565</span>, 115-134 (2006)<span
@@ -411,7 +411,6 @@ Comm. Partial Diff. Eq</i>&nbsp; <b>28</b>,&nbsp; 16051626 (2003).
 <i>Physics of Fluids</i>
 <b>14</b>,&nbsp; No. 4,&nbsp; 14581467
 (2002).
-</font>
 <br>
 <br>
 
