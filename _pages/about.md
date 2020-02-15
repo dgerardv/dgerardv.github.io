@@ -18,4 +18,4 @@ UFR de Mathématiques et IMJ-PRG, Université de Paris
 
 ### Email
 
-david_dot_gerard-varet _ at _ imj-prg _ dot _ fr
+david_dot_gerard-varet_at_imj-prg_dot_fr
