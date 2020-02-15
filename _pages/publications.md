@@ -309,7 +309,7 @@ Dynamics</span> <span style="font-weight: bold;">101</span>, 171-184
 <br>
 <br>
 
-<a href="compns.pdf">  On
+<a href="bounded_ter.pdf">  On
 compressible Navier-Stokes equations with density dependent viscosities
 in bounded domains </a>  (with D. Bresch, B. Desjardins)<br>
 <span style="font-style: italic;"> J. Math. Pures
@@ -319,7 +319,7 @@ Appl.</span> <span style="font-weight: bold;">87</span><span
 <br>
 <br>
 
-<a href="ponomarenko.pdf"> Shear layer solutions of incompressible
+<a href="ponomarenko5.pdf"> Shear layer solutions of incompressible
 MHD and dynamo effect </a>(with F. Rousset)<br><span style="font-style: italic;">
 A</span><font style="font-style: italic;" class="srctitle">nn. I.&nbsp;
 H. Poincar&eacute; / Anal. non lin.</font> <span
@@ -328,7 +328,7 @@ H. Poincar&eacute; / Anal. non lin.</font> <span
 <br>
 <br>
 
- <a href="shallow.pdf"> Homogenization problems from shallow water
+ <a href="topo.pdf"> Homogenization problems from shallow water
 theory</a>
 &nbsp; (with D. Bresch) <br><em>Appl. Math. Lett.</em> <span
  style="font-weight: bold;"> 20</span>&nbsp; no. 5, 505510 (2007)
@@ -343,7 +343,7 @@ E. Dormy)<br><span style="font-style: italic;"> J. Fluid Mech. </span><span
  <br>
 <br>
  
-<a href="pgeo.pdf"> Derivation of the planetary geostrophic
+<a href="PGfinal.pdf"> Derivation of the planetary geostrophic
 equations </a>(with
 D. Bresch, E. Grenier)<br><span style="font-style: italic;"> Arch.
 Rat. Mech. Anal.</span> <span style="font-weight: bold;">182</span>,
@@ -351,7 +351,7 @@ No.3, 387413 (2006)
 <br>
 <br>
 
- <a href="goroberts.pdf"> Oscillating
+ <a href="go_roberts.pdf"> Oscillating
 solutions of incompressible MHD and
 dynamo effect<br></a>
  <span style="font-style: italic;">SIAM
@@ -367,7 +367,7 @@ Mars 2005.
 <br>
 <br>
 
- <a href="qgeo.pdf">  About
+ <a href="CMP2.pdf">  About
 roughness-induced effects on the quasi-geostrophic model </a> (with
 D. Bresch)<br><span style="font-style: italic;"> </span><i>Comm. Math.
 Phys</i>. <span style="font-weight: bold;">253, </span><span
@@ -377,7 +377,7 @@ Phys</i>. <span style="font-weight: bold;">253, </span><span
 <br>
 
 
-<a href="formel_jmfm.pdf"> Formal derivation of boundary layers in fluid mechanics.</a>
+<a href="jmfm115.pdf"> Formal derivation of boundary layers in fluid mechanics.</a>
 <br></span>
 <em>J. Math. Fluid Mech.</em> <span style="font-weight: bold;">
 7&nbsp;</span> no. 2, 179200 (2005)
@@ -393,7 +393,7 @@ Series A&nbsp; </i>1, 4782, (2004).
 <br>
 
 
-<a href="roughft.pdf"> Highly
+<a href="ekman.pdf"> Highly
 rotating fluids in rough domains</a><i>. <br>J. Math. Pures Appl.&nbsp;</i> <b>82</b>,
 14531498 (2003).
 <br>
