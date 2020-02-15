@@ -3,11 +3,11 @@ main:
   - title: "Research Papers"
     url: /publications/
 
-  - title: "Lecture Notes"
-    url: /lectures/    
+  %- title: "Lecture Notes"
+  %  url: /lectures/    
 
-  #- title: "Teaching"
-  #  url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
     
     
