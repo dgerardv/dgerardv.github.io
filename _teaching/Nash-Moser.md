@@ -10,7 +10,7 @@ location: "Paris, France"
 ---
 
 These are lecture notes corresponding to a master course taught in University Paris Diderot in 2019.
-Download [here](/files/poly_Nash_Moser_Feb2019.pdf).
+Download [here](/files/poly__Nash_Moser_Feb2019.pdf).
 
 Table of contents : 
 1. Iterative methods for solving nonlinear equations
