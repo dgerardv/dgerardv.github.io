@@ -13,11 +13,9 @@ I am a mathematician working in the field of partial differential equations (PDE
 ### Address
 
 David Gérard-Varet  
-UFR de Mathématiques et IMJ-PRG,  
-Université de Paris  
-8 Place Aurélie Nemours,   
-75013 Paris 
+UFR de Mathématiques et IMJ-PRG, Université de Paris  
+8 Place Aurélie Nemours, 75013 Paris 
 
 ### Email
 
-david.gerard-varet _ at _ imj-prg _ dot _ fr
+david_dot_gerard-varet _ at _ imj-prg _ dot _ fr
