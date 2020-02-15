@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Lecture notes"
+title: "Lecture Notes"
 permalink: /lectures/
 author_profile: true
 ---
-essai 
+
