@@ -20,8 +20,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "SingFlows"
-  url: /singflows/
+  #- title: "SingFlows"
+  #url: /singflows/
     
     
   #- title: "Guide"
