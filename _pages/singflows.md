@@ -15,7 +15,7 @@ Upcoming events
 ===
 
 
-<img class="left" src="/images/summer_school_2020_v16.jpg" width="236" height="334">
+<img align=left src="/images/summer_school_2020_v16.jpg" width="236" height="334">
 
 The 20th IMJ-PRG summer school, entitled "Kinetic and Fluid PDE's", will take place in Paris from June 22nd to June 26th. It will be located on the Campus des Grands Moulins, Université de Paris.
 
