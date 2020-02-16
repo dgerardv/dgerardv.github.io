@@ -14,14 +14,17 @@ _SingFlows_ is a research project in applied mathematics funded by the french ag
 Upcoming events
 ===
 
-
-<img align="left" margin="10px" src="/images/summer_school_2020_v16.jpg" width="236" height="334"> 
+<style>
+img {
+  float: left;
+}
+<img src="/images/summer_school_2020_v16.jpg" width="236" height="334"> 
 The 20th IMJ-PRG summer school, entitled "Kinetic and Fluid PDE's", will take place in Paris from June 22nd to June 26th. It will be located on the Campus des Grands Moulins, Université de Paris.
 
 The four lectures will be given by : Jacob Bedrossian (Univ. Maryland), Pierre-Emmanuel Jabin (Univ. Maryland), David Lannes (CNRS & Univ. Bordeaux) and Isabelle Tristani (CNRS & ENS).
 
 Several research talks will complete the lectures. Speakers: 
 Nathalie Ayi (Sorbonne Univ.), Sylvie Benzoni (IHP et Univ. Lyon 1), Laurent Desvillettes (Univ. Paris), Daniel Han-Kwan (CNRS & Ecole Polytechnique), Jose Rodrigo (Warwick), Robert Strain (UPenn), and Vlad Vicol (NYU).
-</div> 
+</style> 
 
 For more information, see <https://kineticandfluid.sciencesconf.org/>
