@@ -18,4 +18,4 @@ Table of contents :
 3. The Nash-Moser theorem
 4. The isometric embedding of Riemannian Manifolds
 5. Littlewood-Paley decomposition
-6. The regularity theorem of De Giogi for scalar elliptic equations
+6. The regularity theorem of De Giorgi for scalar elliptic equations
