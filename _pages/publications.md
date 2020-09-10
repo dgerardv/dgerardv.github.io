@@ -17,19 +17,19 @@ Submitted.
 <br>
 <br>
 
-<a href="https://arxiv.org/pdf/2004.05601"> On the correction to Einstein's formula for the effective viscosity  (with A. Mecherbet)  </a>  <br>
+<a href="https://arxiv.org/pdf/2004.05601"> On the correction to Einstein's formula for the effective viscosity  </a>  (with A. Mecherbet)  <br>
 Submitted.
 <br>
 <br>
 
 
-<a href="https://arxiv.org/pdf/2002.04846"> Mild assumptions for the Einstein's effective viscosity formula (with R. Höfer)  </a>  <br>
+<a href="https://arxiv.org/pdf/2002.04846"> Mild assumptions for the Einstein's effective viscosity formula  </a> (with R. Höfer)   <br>
 Submitted.
 <br>
 <br>
 
 
-<a href="https://arxiv.org/pdf/2005.05022"> Optimal Prandtl expansion around a concave boundary layer (with Y. Maekawa and N. Masmoudi) </a>  <br>
+<a href="https://arxiv.org/pdf/2005.05022"> Optimal Prandtl expansion around a concave boundary layer  </a> (with Y. Maekawa and N. Masmoudi)  <br>
 Submitted.
 <br>
 <br>
