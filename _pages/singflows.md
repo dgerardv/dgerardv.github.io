@@ -15,7 +15,7 @@ _SingFlows_ is a research project in applied mathematics funded by the french ag
 Former events
 ===
 
-* Summer school Kinetic and Fluid PDE's (canceled due to the sanitary crisis)
+* _Summer school Kinetic and Fluid PDE's_ (canceled due to sanitary crisis)
 
 <img style="float:left;margin-right:8px;" src="/images/summer_school_2020_v16.jpg" width="236" height="334"> 
 The 20th IMJ-PRG summer school, entitled "Kinetic and Fluid PDE's", will take place in Paris from June 22nd to June 26th. It will be located on the Campus des Grands Moulins, Université de Paris.
