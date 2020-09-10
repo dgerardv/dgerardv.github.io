@@ -39,10 +39,6 @@ Submitted.
 <br>
 <br>
 
-<a href="https://arxiv.org/pdf/1909.11931"> A simple justification of effective models for conducting or fluid media with dilute spherical inclusions  </a>  <br>
-Submitted.
-<br>
-<br>
 
 <a href="https://arxiv.org/pdf/1905.08208"> Analysis of the viscosity of dilute suspensions beyond Einstein's formula </a> (with M. Hillairet) <br>
 To appear in <span style="font-style: italic;"> Arch. Rat. Mech Anal. </span>.
