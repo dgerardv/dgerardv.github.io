@@ -11,13 +11,41 @@ author_profile: true
 
 <br>
 
+
+<a href="https://arxiv.org/pdf/2008.06324"> Derivation of Batchelor-Green formula for random suspensions  </a>  <br>
+Submitted.
+<br>
+<br>
+
+<a href="https://arxiv.org/pdf/2004.05601"> On the correction to Einstein's formula for the effective viscosity  (with A. Mecherbet)  </a>  <br>
+Submitted.
+<br>
+<br>
+
+
+<a href="https://arxiv.org/pdf/2002.04846"> Mild assumptions for the Einstein's effective viscosity formula (with R. Höfer)  </a>  <br>
+Submitted.
+<br>
+<br>
+
+
+<a href="https://arxiv.org/pdf/2005.05022"> Optimal Prandtl expansion around a concave boundary layer (with Y. Maekawa and N. Masmoudi) </a>  <br>
+Submitted.
+<br>
+<br>
+
+<a href="https://arxiv.org/pdf/1909.11931"> A simple justification of effective models for conducting or fluid media with dilute spherical inclusions  </a>  <br>
+Submitted.
+<br>
+<br>
+
 <a href="https://arxiv.org/pdf/1909.11931"> A simple justification of effective models for conducting or fluid media with dilute spherical inclusions  </a>  <br>
 Submitted.
 <br>
 <br>
 
 <a href="https://arxiv.org/pdf/1905.08208"> Analysis of the viscosity of dilute suspensions beyond Einstein's formula </a> (with M. Hillairet) <br>
-Submitted.
+To appear in <span style="font-style: italic;"> Arch. Rat. Mech Anal. </span>.
 <br>
 <br>
 
