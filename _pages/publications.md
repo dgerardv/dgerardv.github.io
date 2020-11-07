@@ -23,12 +23,6 @@ Submitted.
 <br>
 
 
-<a href="https://arxiv.org/pdf/2002.04846"> Mild assumptions for the Einstein's effective viscosity formula  </a> (with R. Höfer)   <br>
-Submitted.
-<br>
-<br>
-
-
 <a href="https://arxiv.org/pdf/2005.05022"> Optimal Prandtl expansion around a concave boundary layer  </a> (with Y. Maekawa and N. Masmoudi)  <br>
 Submitted.
 <br>
@@ -39,9 +33,14 @@ Submitted.
 <br>
 <br>
 
+<a href="https://arxiv.org/pdf/2002.04846"> Mild assumptions for the Einstein's effective viscosity formula  </a> (with R. Höfer)   <br>
+To appear in <span style="font-style: italic;"> Comm. Part. Diff. Eq. </span>
+<br>
+<br>
+
 
 <a href="https://arxiv.org/pdf/1905.08208"> Analysis of the viscosity of dilute suspensions beyond Einstein's formula </a> (with M. Hillairet) <br>
-To appear in <span style="font-style: italic;"> Arch. Rat. Mech Anal. </span>.
+To appear in <span style="font-style: italic;"> Arch. Rat. Mech Anal. </span>
 <br>
 <br>
 
