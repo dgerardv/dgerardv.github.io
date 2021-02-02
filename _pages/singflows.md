@@ -11,7 +11,7 @@ What is SingFlows ?
 ===
 _SingFlows_ is a research project in applied mathematics funded by the french agency [ANR](https://anr.fr/) under grant ANR-18-CE40-0027. Its goal is to develop mathematical and numerical tools for fluid flows with singularities. A detailed scientific description of the project can be found [here](/files/Scientific_description_Singflows.pdf)
 
-Postdoc Offer - Mathematical fluid dynamics
+Postdoctoral Offer - Mathematical Fluid Dynamics
 ===
 _SingFlows_ offers a one-year postdoctoral position, starting September 2021. This postdoc will be hosted by the [Institut de Mathématiques de Jussieu-Paris Rive Gauche](https://www.imj-prg.fr/), and supervised by project members based in Paris. We welcome applications from recent PhD graduates in PDE, preferably with a background in fluid mechanics.    
 
