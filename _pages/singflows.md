@@ -13,11 +13,11 @@ _SingFlows_ is a research project in applied mathematics funded by the french ag
 
 Postdoctoral Offer - Mathematical Fluid Dynamics
 ===
-_SingFlows_ offers a one-year postdoctoral position, starting September 2021. This postdoc will be hosted by the [Institut de Mathématiques de Jussieu-Paris Rive Gauche](https://www.imj-prg.fr/), and supervised by project members based in Paris. We welcome applications from recent PhD graduates in PDE, preferably with a background in fluid mechanics.    
+_SingFlows_ offers a 1-year postdoctoral position, starting September 2021, with net salary around 2250 euros per month. This postdoc will be hosted by the [Institut de Mathématiques de Jussieu-Paris Rive Gauche](https://www.imj-prg.fr/), and supervised by project members based in Paris. We welcome applications from recent PhD graduates in PDE, preferably with a background in fluid mechanics.    
 
-To apply, please send an e-mail to [David Gerard-Varet](david.gerard-varet@imj-prg.fr) before **March 1st 2021** with 
+To apply, please send an [email](david.gerard-varet@imj-prg.fr) before **March 15th 2021** with 
 1. cover letter
-2. CV with list of publications
+2. CV and list of publications
 3. research description (maximum 2 pages) 
 
 Support letters can be joined, or sent separately. 
