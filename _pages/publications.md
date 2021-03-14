@@ -11,12 +11,6 @@ author_profile: true
 
 <br>
 
-
-<a href="https://arxiv.org/pdf/2008.06324"> Derivation of Batchelor-Green formula for random suspensions  </a>  <br>
-To appear in <span style="font-style: italic;"> J. Math. Pures Appl. </span>
-<br>
-<br>
-
 <a href="https://arxiv.org/pdf/2004.05601"> On the correction to Einstein's formula for the effective viscosity  </a>  (with A. Mecherbet)  <br>
 Submitted.
 <br>
@@ -26,7 +20,14 @@ Submitted.
 <a href="https://arxiv.org/pdf/2005.05022"> Optimal Prandtl expansion around a concave boundary layer  </a> (with Y. Maekawa and N. Masmoudi)  <br>
 Submitted.
 <br>
+<br> 
+
+
+<a href="https://arxiv.org/pdf/2008.06324"> Derivation of Batchelor-Green formula for random suspensions  </a>  <br>
+To appear in <span style="font-style: italic;"> J. Math. Pures Appl. </span>
 <br>
+<br>
+
 
 <a href="https://arxiv.org/pdf/1909.11931"> A simple justification of effective models for conducting or fluid media with dilute spherical inclusions  </a>  <br>
 To appear in <span style="font-style: italic;"> Asympt. Anal. </span>
