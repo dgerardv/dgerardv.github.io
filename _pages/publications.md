@@ -13,7 +13,7 @@ author_profile: true
 
 
 <a href="https://arxiv.org/pdf/2008.06324"> Derivation of Batchelor-Green formula for random suspensions  </a>  <br>
-Submitted.
+To appear in <span style="font-style: italic;"> J. Math. Pures Appl. </span>.
 <br>
 <br>
 
@@ -29,7 +29,7 @@ Submitted.
 <br>
 
 <a href="https://arxiv.org/pdf/1909.11931"> A simple justification of effective models for conducting or fluid media with dilute spherical inclusions  </a>  <br>
-Submitted.
+To appear in <span style="font-style: italic;"> Asympt. Anal. </span>.
 <br>
 <br>
 
