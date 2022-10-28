@@ -12,7 +12,17 @@ author_profile: true
 <br>
 
 
-<a href="https://arxiv.org/pdf/2106.06299">  Homogenization of stiff inclusions through network approximation.  </a>  (with A. Girodroux-Lavigne)  <br>
+<a href="https://arxiv.org/pdf/2207.08431"> Orientation mixing in active suspensions  </a>  (with M. Coti Zelati and H. Dietert)  <br>
+Submitted.
+<br>
+<br>
+
+<a href="https://arxiv.org/pdf/2205.15829"> Improved well-posedness for the Triple-Deck and related models via concavity  </a>  (with S. Iyer)  <br>
+Submitted.
+<br>
+<br>
+
+<a href="https://arxiv.org/pdf/2106.06299">  Homogenization of stiff inclusions through network approximation  </a>  (with A. Girodroux-Lavigne)  <br>
 <span style="font-style: italic;">    Netw. Heterog. Media   </span> 17 (2022), no. 2, 163–202.
 <br>
 <br>
