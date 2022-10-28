@@ -17,7 +17,7 @@ Submitted.
 <br>
 <br>
 
-<a href="https://arxiv.org/pdf/2205.15829"> Improved well-posedness for the Triple-Deck and related models via concavity  </a>  (with S. Iyer)  <br>
+<a href="https://arxiv.org/pdf/2205.15829"> Improved well-posedness for the Triple-Deck and related models via concavity  </a>  (with S. Iyer and Y. Maekawa)  <br>
 Submitted.
 <br>
 <br>
