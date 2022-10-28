@@ -11,8 +11,21 @@ author_profile: true
 
 <br>
 
+
+<a href="https://arxiv.org/pdf/2106.06299">  Homogenization of stiff inclusions through network approximation.  </a>  (with A. Girodroux-Lavigne)  <br>
+<span style="font-style: italic;">    Netw. Heterog. Media   </span> 17 (2022), no. 2, 163–202.
+<br>
+<br>
+
+
+<a href="https://arxiv.org/pdf/2105.02053">  On the ill-posedness of the triple deck model  </a>  (with H. Dietert)  <br>
+<span style="font-style: italic;">  SIAM J. Math. Anal.  </span> 3 54 (2022), no. 2, 2611–2633. 
+<br>
+<br>
+
+
 <a href="https://arxiv.org/pdf/2004.05601"> On the correction to Einstein's formula for the effective viscosity  </a>  (with A. Mecherbet)  <br>
-Submitted.
+<span style="font-style: italic;">  Ann. Inst. H. Poincaré C Anal. Non Lin.  </span> 39 (2022), no. 1, 87–119.
 <br>
 <br>
 
@@ -24,36 +37,36 @@ Submitted.
 
 
 <a href="https://arxiv.org/pdf/2008.06324"> Derivation of Batchelor-Green formula for random suspensions  </a>  <br>
-To appear in <span style="font-style: italic;"> J. Math. Pures Appl. </span>
+<span style="font-style: italic;"> J. Math. Pures Appl. </span>  152 (9) (2021), 211–250.
 <br>
 <br>
 
 
 <a href="https://arxiv.org/pdf/1909.11931"> A simple justification of effective models for conducting or fluid media with dilute spherical inclusions  </a>  <br>
-To appear in <span style="font-style: italic;"> Asympt. Anal. </span>
+<span style="font-style: italic;"> Asympt. Anal. </span>   128 (2022), no. 1, 31–53. 
 <br>
 <br>
 
 <a href="https://arxiv.org/pdf/2002.04846"> Mild assumptions for the Einstein's effective viscosity formula  </a> (with R. Höfer)   <br>
-To appear in <span style="font-style: italic;"> Comm. Part. Diff. Eq. </span>
+<span style="font-style: italic;"> Comm. Part. Diff. Eq. </span>  46 (2021), no. 4, 611–629. 
 <br>
 <br>
 
 
 <a href="https://arxiv.org/pdf/1905.08208"> Analysis of the viscosity of dilute suspensions beyond Einstein's formula </a> (with M. Hillairet) <br>
-To appear in <span style="font-style: italic;"> Arch. Rat. Mech Anal. </span>
+<span style="font-style: italic;"> Arch. Rat. Mech. Anal.</span>  238 (3) (2020), 1349–1411.
 <br>
 <br>
 
 <a href="https://arxiv.org/pdf/1809.11004.pdf"> Well-posedness of the
 Prandtl equation without any structural assumption </a> (with H. Dietert) <br>
-To appear in <span style="font-style: italic;"> Annals of PDE</span>.
+<span style="font-style: italic;"> Ann. PDE </span> 5 (1) (2019), Paper n°8.
 <br>
 <br>
 
 <a href="https://arxiv.org/pdf/1804.04489.pdf"> Well-posedness of the
 hydrostatic Navier-Stokes equations </a> (with N. Masmoudi, V. Vicol) <br>
-To appear in <span style="font-style: italic;"> Analysis & PDE</span>.
+<span style="font-style: italic;"> Analysis & PDE </span> 13 (5) (2020), 1417-1455.
 <br>
 <br>
 
