@@ -21,6 +21,7 @@ This summer school, partly sponsored by _SingFlows_, will take place in Cargese,
 
 * _Summer School: New Trends in Mathematical Fluid Dynamics_
 
+<img style="float:left;margin-right:8px;" src="/images/ffiche_eem2023_2.pdf" width="236" height="334">
 This summer school, partly sponsored by _SingFlows_, will take place at Institut Fourier, Université Grenoble-Alpes from June 5th to June 16th 2023, and focus on themes central to the project. More [here](https://if-summer2023.sciencesconf.org/)
 
 
