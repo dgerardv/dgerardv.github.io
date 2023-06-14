@@ -54,7 +54,7 @@ For more information, see <https://kineticandfluid.sciencesconf.org/>
 
 * The kick-off conference of _Singflows_ took place at Université Paris Diderot, on January 29-30 2019. Speakers:  Thierry Gallay, Olivier Glass, François James, Pierre-Yves Lagrée, David Lannes, Evelyne Miot, Mario Ricchiuto, Maurice Rossi, Laure Saint-Raymond.    
 
-Postdoctoral Offer - Mathematical Fluid Dynamics
+Postdoctoral Offer - Mathematical Fluid Dynamics (2021)
 ===
 _SingFlows_ offers a 1-year postdoctoral position, starting September 2021, with net salary around 2250 euros per month, and no teaching. This postdoc will be hosted by the [Institut de Mathématiques de Jussieu-Paris Rive Gauche](https://www.imj-prg.fr/), and supervised by project members based in Paris. We welcome applications from recent PhD graduates in PDE, preferably with a background in fluid mechanics.    
 
