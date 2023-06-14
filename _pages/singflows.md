@@ -26,7 +26,8 @@ This summer school, partly sponsored by _SingFlows_, will take place in Cargese,
 This summer school, partly sponsored by _SingFlows_, will take place at Institut Fourier, Université Grenoble-Alpes from June 5th to June 16th 2023, and focus on themes central to the project. More [here](https://if-summer2023.sciencesconf.org/)
 
 
-
+<br>
+<br>
 
 
 
