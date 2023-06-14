@@ -17,8 +17,14 @@ Submitted.
 <br>
 <br>
 
+<a href="https://arxiv.org/pdf/2005.05022"> Optimal Prandtl expansion around a concave boundary layer  </a> (with Y. Maekawa and N. Masmoudi)  <br>
+To appear in *Analysis and PDE*.
+<br>
+<br> 
+
+
 <a href="https://arxiv.org/pdf/2205.15829"> Improved well-posedness for the Triple-Deck and related models via concavity  </a>  (with S. Iyer and Y. Maekawa)  <br>
-Submitted.
+To appear in *J. Math. Fluid Mech. (special issue dedicated to Antonin Novotny)*.
 <br>
 <br>
 
@@ -39,11 +45,6 @@ Submitted.
 <br>
 <br>
 
-
-<a href="https://arxiv.org/pdf/2005.05022"> Optimal Prandtl expansion around a concave boundary layer  </a> (with Y. Maekawa and N. Masmoudi)  <br>
-Submitted.
-<br>
-<br> 
 
 
 <a href="https://arxiv.org/pdf/2008.06324"> Derivation of Batchelor-Green formula for random suspensions  </a>  <br>
