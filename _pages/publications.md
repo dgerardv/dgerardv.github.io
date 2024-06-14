@@ -13,7 +13,7 @@ author_profile: true
 
 
 <a href="https://arxiv.org/pdf/2207.08431"> Orientation mixing in active suspensions  </a>  (with M. Coti Zelati and H. Dietert)  <br>
-Submitted.
+*Annals of PDE* 9 (2023), no.2, paper no.20.
 <br>
 <br>
 
@@ -24,7 +24,7 @@ To appear in *Analysis and PDE*.
 
 
 <a href="https://arxiv.org/pdf/2205.15829"> Improved well-posedness for the Triple-Deck and related models via concavity  </a>  (with S. Iyer and Y. Maekawa)  <br>
-To appear in *J. Math. Fluid Mech. (special issue dedicated to Antonin Novotny)*.
+*J. Math. Fluid Mech. (special issue dedicated to Antonin Novotny)* 25 (2023), no.3, paper no.69.
 <br>
 <br>
 
