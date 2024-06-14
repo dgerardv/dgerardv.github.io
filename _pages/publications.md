@@ -11,6 +11,16 @@ author_profile: true
 
 <br>
 
+<a href="https://arxiv.org/pdf/2404.05539"> Analysis of a sedimenting suspension near a vertical wall  </a>  (with A. Mecherbet)  <br>
+Submitted
+<br>
+<br>
+
+
+<a href="https://arxiv.org/pdf/2404.01906"> Nonlinear stability for active suspensions  </a>  (with M. Coti Zelati and H. Dietert)  <br>
+Submitted
+<br>
+<br>
 
 <a href="https://arxiv.org/pdf/2207.08431"> Orientation mixing in active suspensions  </a>  (with M. Coti Zelati and H. Dietert)  <br>
 *Annals of PDE* 9 (2023), no.2, paper no.20.
