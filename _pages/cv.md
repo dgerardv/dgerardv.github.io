@@ -15,7 +15,7 @@ redirect_from:
 Work experience
 ======
 
-* Since 2009 : Professor of Mathematics, Université de Paris (formerly Paris Diderot)
+* Since 2009 : Professor of Mathematics, Université Paris Cité (formerly Paris Diderot)
 * Since 2017 : Part-time Professor, Ecole Polytechnique  
 * 2004-2009 :  Junior CNRS Researcher
 * 2006-2007 : Courant Instructor, Courant Institute of Mathematical Sciences, NYU, New York
