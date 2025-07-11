@@ -11,16 +11,27 @@ author_profile: true
 
 <br>
 
-<a href="https://arxiv.org/pdf/2404.05539"> Analysis of a sedimenting suspension near a vertical wall  </a>  (with A. Mecherbet)  <br>
+<a href="https://arxiv.org/pdf/2506.17749"> Diffusion-free boundary conditions for the Navier-Stokes equation </a>  (with E. Dormy)  <br>
 Submitted
 <br>
 <br>
-
 
 <a href="https://arxiv.org/pdf/2404.01906"> Nonlinear stability for active suspensions  </a>  (with M. Coti Zelati and H. Dietert)  <br>
 Submitted
 <br>
 <br>
+
+<a href="https://arxiv.org/pdf/2410.07702"> Correction to Doi type models for suspensions  </a>  (with R. Höfer)  <br>
+To appear in *Probability and Mathematical Physics*
+<br>
+<br>
+
+
+<a href="https://arxiv.org/pdf/2404.05539"> Analysis of a sedimenting suspension near a vertical wall  </a>  (with A. Mecherbet)  <br>
+*Journal de l'Ecole Polytechnique* 12 (2025), 523-546
+<br>
+<br>
+
 
 <a href="https://arxiv.org/pdf/2207.08431"> Orientation mixing in active suspensions  </a>  (with M. Coti Zelati and H. Dietert)  <br>
 *Annals of PDE* 9 (2023), no.2, paper no.20.
@@ -28,7 +39,7 @@ Submitted
 <br>
 
 <a href="https://arxiv.org/pdf/2005.05022"> Optimal Prandtl expansion around a concave boundary layer  </a> (with Y. Maekawa and N. Masmoudi)  <br>
-To appear in *Analysis and PDE*.
+*Analysis and PDE* Vol. 17 (2024), No. 9, 3125–3187. 
 <br>
 <br> 
 
