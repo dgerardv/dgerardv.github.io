@@ -11,6 +11,11 @@ author_profile: true
 
 <br>
 
+<a href="https://arxiv.org/pdf/2507.21850"> Weak solutions of a viscous model for fluid-bubbles interaction  </a>  (with C. Burtea)  <br>
+Submitted
+<br>
+<br>
+
 <a href="https://arxiv.org/pdf/2506.17749"> Diffusion-free boundary conditions for the Navier-Stokes equation </a>  (with E. Dormy)  <br>
 Submitted
 <br>
