@@ -29,7 +29,7 @@ Education
 * Agrégation de Mathématiques (french national competition for teaching in high school), 2000
 * Student at Ecole Normale Supérieure de Lyon, 1997-1999 
 
-_A more complete version of my CV can be downloaded [here](/files/cv_latex.pdf)_ _(last update: 02-2020)_
+_A more complete version of my CV can be downloaded [here](/files/cv_english_2025.pdf)_ _(last update: 02-2020)_
 
 
 
