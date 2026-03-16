@@ -11,6 +11,12 @@ author_profile: true
 
 <br>
 
+
+<a href="https://arxiv.org/pdf/2512.17649"> Stability analysis for active Brownian particle models  </a>  (with M. Coti Zelati and L. Ertzbischoff)  <br>
+Submitted
+<br>
+<br>
+
 <a href="https://arxiv.org/pdf/2507.21850"> Weak solutions of a viscous model for fluid-bubbles interaction  </a>  (with C. Burtea)  <br>
 Submitted
 <br>
@@ -22,12 +28,12 @@ Submitted
 <br>
 
 <a href="https://arxiv.org/pdf/2404.01906"> Nonlinear stability for active suspensions  </a>  (with M. Coti Zelati and H. Dietert)  <br>
-Submitted
+To appear in *Annales Henri Poincare C*
 <br>
 <br>
 
 <a href="https://arxiv.org/pdf/2410.07702"> Correction to Doi type models for suspensions  </a>  (with R. Höfer)  <br>
-To appear in *Probability and Mathematical Physics*
+*Probability and Mathematical Physics*  Vol. 6 (2025), No. 3, 1023–1072
 <br>
 <br>
 
