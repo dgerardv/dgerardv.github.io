@@ -28,7 +28,7 @@ Submitted
 <br>
 
 <a href="https://arxiv.org/pdf/2404.01906"> Nonlinear stability for active suspensions  </a>  (with M. Coti Zelati and H. Dietert)  <br>
-To appear in *Annales Henri Poincare C*
+To appear in *Annales Institut Henri Poincare C*
 <br>
 <br>
 
